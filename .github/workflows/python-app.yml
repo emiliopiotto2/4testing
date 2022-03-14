@@ -5,7 +5,7 @@ name: Python application
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, 4-github-actions-implementation-automated-testing ]
   pull_request:
     branches: [ main ]
 
